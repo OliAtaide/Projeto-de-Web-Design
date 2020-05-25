@@ -1,0 +1,138 @@
+.s2s_contenedor{margin:4px}
+.s2s_contenedor a{padding:4px 8px;text-shadow:none;color:inherit;text-decoration:none}
+.s2s_contenedor a:hover{color:inherit}
+.s2s_contenedor>.btn{padding:0 !important;border:none !important}
+.s2s_contenedor .btn+.btn{margin-left:0 !important}
+.s2s_contenedor .btn>a{font-size:2em}
+.s2s_contenedor .btn-xs>a{font-size:1.2em}
+.s2s_contenedor .btn-sm>a{font-size:1.4em}
+.s2s_contenedor .btn>a .s2s_social_text{font-size:.6em}
+.globo{background:#fff;background:rgba(255,255,255,0.9);padding:11px;border:0 solid #ccc;border-radius:0 4px 4px 4px}
+.is_on_screen.globo{border-radius:4px 0 4px 4px}
+.s2s_cookie_contenedor span{font-size:.7em}
+.s2s_cookie_eulogo{float:left;width:52px !important;height:52px !important;padding-right:12px}
+.s2s_cookie_more_info{display:none}
+.s2s_cookie_more_info{background:#e2e2e2;padding:10px;border-radius:4px;white-space:normal;width:300px;text-align:justify;font-size:.7em}
+.s2s_cookie_more_info p.s2s_cookie_read_policy a{display:inline-block}
+.s2s_cookie_copyright{padding:0;margin:0;text-align:right}
+.s2s_cookie_copyright a{font-size:10px;padding:0;margin:0}
+.g-plusone{display:none !important}
+.s2s_gplus_one{float:left;clear:both}
+.s2s_gplus_one>div,.s2s_gplus_one iframe{position:static !important;width:140px !important;height:26px}
+.s2s_contenedor>.btn{background:none !important}
+.s2s_contenedor>.btn a{transition:background 400ms,color 400ms;border-radius:3px 3px 0 0}
+.s2s_twitter>a{color:#3894b6}
+.s2s_twitter:hover>a{color:#00aced}
+.s2s_twitter.active>a{color:#fff;background:#00aced !important}
+.s2s_twitter .globo{box-shadow:0 0 6px #00aced inset}
+.s2s_facebook>a{color:#526282}
+.s2s_facebook:hover>a{color:#3b5998}
+.s2s_facebook.active>a{color:#fff;background:#3b5998 !important}
+.s2s_facebook .globo{box-shadow:0 0 6px #3b5998 inset}
+.s2s_pinterest>a{color:#a4484c}
+.s2s_pinterest:hover>a{color:#cb2027}
+.s2s_pinterest.active>a{background:#cb2027 !important;color:#fff}
+.s2s_pinterest .globo{box-shadow:0 0 6px #cb2027 inset}
+.s2s_linkedin>a{color:#2a6d8c}
+.s2s_linkedin:hover>a{color:#007bb6}
+.s2s_linkedin.active>a{background:#007bb6 !important;color:#fff}
+.s2s_linkedin .globo{box-shadow:0 0 6px #007bb6 inset}
+.s2s_gplus>a{color:#b66a60}
+.s2s_gplus:hover>a{color:#dd4b39}
+.s2s_gplus.active>a{background:#dd4b39;color:#fff}
+.s2s_gplus .globo{box-shadow:0 0 6px #dd4b39 inset}
+.s2s_wapp>a{color:#43d854}
+.s2s_wapp:hover>a{color:#37AF45}
+.s2s_wapp .globo{box-shadow:0 0 6px #37AF45 inset}
+.s2s_wapp.active>a{background:#37AF45;color:#fff}
+.s2s_tumblr>a{color:#41515f}
+.s2s_tumblr:hover>a{color:#32506d}
+.s2s_tumblr.active>a{background:#32506d;color:#fff}
+.s2s_tumblr .globo{box-shadow:0 0 6px #32506d inset}
+.s2s_tumblr .s2s_tumblr_iframe>a{color:#32506d}
+.s2s_vk>a{color:#57687d}
+.s2s_vk:hover>a{color:#45668e}
+.s2s_vk.active>a{background:#45668e;color:#fff}
+.s2s_vk .globo{box-shadow:0 0 6px #45668e inset}
+.s2s_cookie_contenedor a.s2s_cookie_information{color:#111}
+.s2s_cookie_more_info h3{font-size:2em;margin-top:0}
+div.s2s_supra_contenedor.s2s_pos_fixed{position:fixed;bottom:0}
+div.s2s_supra_contenedor.s2s_pos_fixed.s2s_fixed_vertical>.s2s_contenedor{display:inline-block}
+div.s2s_supra_contenedor.s2s_pos_fixed.s2s_fixed_vertical>.s2s_contenedor>.btn{display:block;float:none;max-width:100%;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}
+div.s2s_supra_contenedor.s2s_pos_fixed.s2s_fixed_vertical>.s2s_contenedor>.btn:first-child{-webkit-border-radius:4px 4px 0 0;-moz-border-radius:4px 4px 0 0;border-radius:4px 4px 0 0}
+div.s2s_supra_contenedor.s2s_pos_fixed .globo .s2s_gplus_one{float:none}
+div.s2s_supra_contenedor.s2s_pos_fixed.s2s_pos_fix_x_right .s2s_contenedor>div.btn>a{text-align:right}
+div.s2s_supra_contenedor.s2s_pos_fixed.s2s_pos_fix_x_left .s2s_contenedor>div.btn>a{text-align:left}
+div.s2s_supra_contenedor.s2s_pos_fixed .globo{display:none}
+div.s2s_supra_contenedor.s2s_pos_fixed .active .globo{position:relative;display:block;border-radius:0 0 4px 4px}
+div.s2s_supra_contenedor.s2s_pos_fixed.s2s_pos_fix_x_right{right:0}
+div.s2s_supra_contenedor.s2s_pos_fixed.s2s_pos_fix_x_center{right:0;left:0;text-align:center}
+div.s2s_supra_contenedor.s2s_pos_fixed.s2s_pos_fix_x_left{left:0}
+div.s2s_supra_contenedor.s2s_pos_fixed.s2s_pos_fix_y_top{top:0}
+div.s2s_supra_contenedor.s2s_pos_fixed.s2s_pos_fix_y_center{top:50%;bottom:0}
+.s2s_contenedor .s2s_flecha{content:' ';position:absolute;border:8px solid;border-color:#ccc transparent transparent transparent;border-color:#3b5998 transparent transparent transparent;z-index:99999;top:-1px;-webkit-transition:opacity 300ms;-webkit-transition-delay:100ms;opacity:0}
+.s2s_contenedor .active .s2s_flecha{opacity:1}
+.s2s_twitter .s2s_flecha{border-color:#00aced transparent transparent transparent}
+.s2s_facebook .s2s_flecha{border-color:#3b5998 transparent transparent transparent}
+.s2s_supra_contenedor.cookie_on .s2s_facebook_iframe>div.s2s_flecha{display:block}
+.s2s_pinterest .s2s_flecha{border-color:#cb2027 transparent transparent transparent}
+.s2s_linkedin .s2s_flecha{border-color:#007bb6 transparent transparent transparent}
+.s2s_gplus .s2s_flecha{border-color:#dd4b39 transparent transparent transparent}
+.s2s_wapp .s2s_flecha{border-color:#37AF45 transparent transparent transparent}
+.s2s_tumblr .s2s_flecha{border-color:#32506d transparent transparent transparent}
+.s2s_vk .s2s_flecha{border-color:#45668e transparent transparent transparent}
+/*# sourceMappingURL=icon_colour.css.map */
+
+.s2s_supra_contenedor.s2s_balloon_top .globo{
+  border-bottom: solid 2px;
+}
+
+.s2s_contenedor.fill_mobile{
+	background: #eaeaea;
+}
+
+.s2s_balloon_top .s2s_twitter .globo{
+	border-color: #00aced;
+}
+.s2s_balloon_top .s2s_facebook .globo{
+	border-color: #3b5998;
+}
+.s2s_balloon_top .s2s_pinterest .globo{
+	border-color: #cb2027;
+}
+.s2s_balloon_top .s2s_linkedin .globo{
+	border-color: #007bb6;
+}
+.s2s_balloon_top .s2s_gplus .globo{
+	border-color: #dd4b39;
+}
+.s2s_balloon_top .s2s_wapp .globo{
+	border-color: #37AF45;
+}
+.s2s_balloon_top .s2s_tumblr .globo{
+	border-color: #32506d;
+}
+.s2s_balloon_top .s2s_vk .globo{
+	border-color: #45668e;
+}
+
+/*3.2.6 badges*/
+.s2s_contenedor .s2s_badge{
+  background: #111;
+  background: rgba(0,0,0,0.1);
+  color:#111;
+  font-weight: normal;
+}
+
+.s2s_contenedor > .btn.active .s2s_badge{
+color:#fff;
+}
+.s2s_contenedor .btn-xs .s2s_badge{
+	font-size: 8px;
+    padding: 2px 4px;
+}
+
+.s2s_contenedor .btn-sm .s2s_badge{
+	font-size: 10px;
+    padding: 2px 4px;
+}
